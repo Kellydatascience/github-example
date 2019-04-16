@@ -1,1 +1,3 @@
-https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/f3db612c-7a9e-4794-9951-38f935b7ae24/view?access_token=8fb080edb25ac7e69c222418c8a7cc5951dabe5c37e852c3a456338770e460e6
+Here is the link of my assignment to cluster Toronto neighbourhood
+
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/c3ce61ac-93d2-4aff-8f67-52e4d891ad4e/view?access_token=192aa1779addd84026eb90b216665284a8734246334a226749925c943357865d
